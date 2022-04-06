@@ -1,0 +1,3 @@
+D:/Desktop/demo/build/CMakeFiles/addon.dir
+D:/Desktop/demo/build/CMakeFiles/ALL_BUILD.dir
+D:/Desktop/demo/build/CMakeFiles/ZERO_CHECK.dir
